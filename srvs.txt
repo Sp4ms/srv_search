@@ -13,12 +13,14 @@ _certsrv._tcp
 _client._smtp
 _cmp._tcp
 _collab-edge._tls
+_consul._tcp
 _crl._tcp
 _crls._tcp
 _diameter._tcp
 _dns._tcp
 _dnss._tcp
 _dnss._udp
+_etcd._tcp
 _finger._tcp
 _ftp._tcp
 _ftpes._tcp
@@ -71,10 +73,13 @@ _ldaps._tcp.dc._msdcs
 _matrix._tcp
 _minecraft._tcp
 _minecraft._udp
+_mongodb._tcp
+_mqtt._tcp
 _mqtts._tcp
 _msdcs
 _msrpc._tcp
 _mumble._tcp
+_mysql._tcp
 _mysqlsrv._tcp
 _netbios-dgm._tcp
 _netbios-ns._tcp
@@ -124,6 +129,7 @@ _tcp
 _teamspeak._tcp
 _telnet._tcp
 _telnets._tcp
+_test
 _test._tcp
 _tftp._udp
 _tls
